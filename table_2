@@ -1,0 +1,11 @@
+ID    Propertu(Node)
+1     User
+2     Session
+3     Text
+srcID descID Property(Edge)
+1     2      Joins
+1     2      Leaves
+1     2      Starts
+2     3      Contains
+1     3      Writes
+3     1      Mention
